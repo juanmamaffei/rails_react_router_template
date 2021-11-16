@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a template for projects with Rails and React. It also has some sample components (Home, Contact and About).
 
-Things you may want to cover:
+* Ruby 3.0.
 
-* Ruby version
+* Rails 6.1.
 
-* System dependencies
+* React 17.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* React-router 6.
